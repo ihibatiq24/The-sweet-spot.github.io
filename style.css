@@ -1,0 +1,46 @@
+.navbar
+  { background-color:plum;}
+  h1{
+    color: rgb(222, 212, 231);
+  }
+  .btn
+  {
+    color:white;
+    background-color: green;
+  }
+  li
+  {
+    font-style: italic;
+    color: rgb(246, 244, 248);
+  }
+  .card{
+    display: inline-block;
+    background-color:rgb(155, 117, 123);
+  }
+  nav{
+    color: aqua;
+    
+  }
+  .navbar-brand{
+    color:rgb(236, 150, 236);
+    font-size: large;
+    font-weight: bolder;
+   
+  }
+  .col-lg-6
+  {
+    color: aqua;
+  }
+  .container col-xxl-8 px-4 py-5{
+    background-color: aqua;
+  }
+  .d-block mx-lg-auto img-fluid{
+    border: navy;
+  }
+  .carousel slide{
+    width: 60%;
+  }
+  
+   .btn-lg btn-outline-primary{
+    background-color: brown;
+   }
